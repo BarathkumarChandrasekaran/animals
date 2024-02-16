@@ -3,3 +3,5 @@ cats
 turtles
 snakes
 sea monsters
+alligator
+Lizards
